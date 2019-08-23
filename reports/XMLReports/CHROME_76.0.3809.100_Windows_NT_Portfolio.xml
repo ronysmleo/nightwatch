@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="Portfolio"
+    errors="0" failures="0" hostname="" id="" package="Portfolio" skipped="0"
+    tests="4" time="15.16" timestamp="">
+  
+    <testcase name="Open PVX website" classname="Portfolio" time="2.939" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click Sign in button" classname="Portfolio" time="1.213" assertions="0">
+    </testcase>
+  
+    <testcase name="Land on Portfolio page" classname="Portfolio" time="1.206" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Create Portfolio" classname="Portfolio" time="9.806" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
